@@ -1,0 +1,142 @@
+@media screen and (max-width: 812px) {
+    #hero{
+        display: block;
+    }
+
+    #main h1{
+        font-size: 40px;
+    }
+
+    #img{
+        height: 48%;
+        align-items: center;
+    }
+
+    #case{
+        border-radius: 8%;
+        align-items: center;
+        width: 50%;
+    }
+
+    #screen{
+        height: 90%;
+        border-radius: 5%;
+    }
+
+    #intro{
+        display: block;
+    }
+
+    #first_main{
+        max-width: 80%;
+        padding-top: 20%;
+    }
+
+    #first_main h1{
+        font-size: 25px;
+    }
+
+    #first_main p{
+        font-size: 14px;
+    }
+
+    #resources{
+        width: 100%;
+        margin-top: 40px;
+    }
+
+
+    #ball{
+        flex: 1;
+        max-width: 100px;
+        height: 100px;
+        margin-left: 50px;
+    }
+
+    #ball h1{
+        font-size: 30px;
+    }
+
+    .htwo{
+        font-size: 20px;
+    }
+
+    #laptop{
+        margin-top: 60px;
+    }
+
+    #datacenters{
+        display: block;
+    }
+
+    #datacenters h1{
+        font-size: 30px;
+    }
+
+
+    #draw{
+        height: 40%;
+    }
+
+    .dwdc{
+        border-radius: 10px;
+    }
+
+    #sol_link{
+        font-size: 12px;
+    }
+    
+    #cot_text{
+        width: 80%;
+    }
+
+    #cot_text h1{
+        font-size: 30px;
+    }
+
+    #cot_draw{
+        height: 20%;
+        width: 60%;
+    }
+
+    j{
+        color: black;
+    }
+
+    f{
+        color: brown;
+    }
+
+    #four h1{
+        color:  transparent;
+    }
+
+    #refurbish{
+        display: block;
+    }
+
+    #refurbish h1{
+        font-size: 30px;
+    }
+
+    #r_main{
+        height: 50vh;
+    }
+
+    #r_text{
+        max-width: 90%;
+    }
+
+    #r_draw{
+        height: 50vh;
+    }
+
+    #u_main{
+        max-width: 100%;
+    }
+
+    #u_main h1{
+        font-size: 40px;
+    }
+}
+
