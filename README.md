@@ -7,7 +7,7 @@ It is important to say that the content might be false ...
 > DISCLAIMER : some companies are mentioned in this project as examples. They do not support or finance in any kind this project.
 
 
-#### If you see any grammar or content mistake, please let it know :smile:
+#### If you see any grammar or content mistake, please let me know :smile:
 
 ## So if you have any ideas or remarks, feel free to open an issue or a pull request !
 
